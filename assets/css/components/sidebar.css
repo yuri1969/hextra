@@ -18,4 +18,25 @@
   li.open > .hextra-sidebar-item > .hextra-sidebar-collapsible-button > svg > path {
     @apply hx:rotate-90;
   }
+  /* Hidden items during filtering */
+  li.hextra-sidebar-filtered-hidden {
+    display: none !important;
+  }
+  /* Highlight matching text in filter */
+  .hextra-sidebar-filter-highlight {
+    background-color: rgb(254 240 138); /* yellow-200 */
+    color: inherit;
+    border-radius: 2px;
+    padding: 0 1px;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  .hextra-sidebar-container .hextra-sidebar-filter-highlight {
+    background-color: rgb(161 98 7); /* yellow-700 */
+  }
+}
+
+html.dark .hextra-sidebar-container .hextra-sidebar-filter-highlight {
+  background-color: rgb(161 98 7); /* yellow-700 */
 }

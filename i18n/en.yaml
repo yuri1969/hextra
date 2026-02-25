@@ -15,6 +15,10 @@ toggleSection: "Toggle section"
 # Accessibility live-region/status text
 resultsFound: "%d results found"
 
+# Sidebar filter
+clearFilter: "Clear filter"
+filterSidebar: "Filter..."
+
 # User-facing UI text
 archives: "Archives"
 backToTop: "Scroll to top"

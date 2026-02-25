@@ -15,6 +15,10 @@ toggleSection: "تغییر وضعیت بخش"
 # Accessibility live-region/status text
 resultsFound: "%d نتیجه یافت شد"
 
+# Sidebar filter
+clearFilter: "پاک کردن فیلتر"
+filterSidebar: "فیلتر..."
+
 # User-facing UI text
 archives: "آرشیو"
 backToTop: "به بالا بروید"

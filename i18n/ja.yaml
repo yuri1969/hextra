@@ -15,6 +15,10 @@ toggleSection: "セクションの切り替え"
 # Accessibility live-region/status text
 resultsFound: "%d件の結果が見つかりました"
 
+# Sidebar filter
+clearFilter: "フィルターをクリア"
+filterSidebar: "フィルター..."
+
 # User-facing UI text
 archives: "アーカイブ"
 backToTop: "トップにスクロール"

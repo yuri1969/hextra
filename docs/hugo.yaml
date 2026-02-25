@@ -224,6 +224,11 @@ params:
       # https://github.com/nextapps-de/flexsearch/#tokenizer-prefix-search
       tokenize: forward
 
+  # Sidebar filter
+  sidebar:
+    filter:
+      enable: true
+
   editURL:
     enable: true
     base: "https://github.com/imfing/hextra/edit/main/docs/content"

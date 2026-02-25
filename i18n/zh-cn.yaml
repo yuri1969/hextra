@@ -15,6 +15,10 @@ toggleSection: "切换章节"
 # Accessibility live-region/status text
 resultsFound: "找到 %d 个结果"
 
+# Sidebar filter
+clearFilter: "清除筛选"
+filterSidebar: "筛选..."
+
 # User-facing UI text
 archives: "归档"
 backToTop: "返回顶部"
